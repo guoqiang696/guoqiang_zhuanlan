@@ -1,2 +1,4 @@
 # guoqiang_zhuanlan
-none
+安装依赖
+
+npm install
